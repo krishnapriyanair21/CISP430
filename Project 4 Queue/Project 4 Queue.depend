@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581200340 source:c:\users\krish\desktop\documents\arc\spring 2020\cisp 430\project 4 queue\main.cpp
+	<iostream>
+	<fstream>
+

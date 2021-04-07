@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581796527 source:c:\users\krish\desktop\documents\arc\spring 2020\cisp 430\project 5 infix\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+
