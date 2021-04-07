@@ -1,0 +1,11 @@
+5 4 2 3 9 
+inOrder: 
+2 3 4 5 9 
+postOrder: 
+3 2 4 9 5 
+Print Level: 
+5 
+4 9 
+2 
+3 
+

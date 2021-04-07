@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581969701 source:c:\users\krish\desktop\documents\arc\spring 2020\cisp 430\project 6.5 doubly linked lists\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
